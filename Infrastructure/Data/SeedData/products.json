@@ -8,10 +8,10 @@
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
+    "Name": "Crocin-650",
+    "Description": "Medicine For Fever.",
+    "Price": 55,
+    "PictureUrl": "images/products/Crocin-650.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
